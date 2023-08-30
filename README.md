@@ -1,4 +1,4 @@
-# Sharpe Ration Analysis
+# Sharpe Ratio Analysis
 In a captivating project, I dived into the world of finance, leveraging Python to explore and calculate the Sharpe ratio—a widely-used measure for comparing investment opportunities. The Sharpe ratio, introduced by William Sharpe, assesses risk-adjusted returns, enabling insightful comparisons between different investments. It quantifies the additional return per unit of risk that investors could obtain by choosing one investment over another.
 
 Within the project, I focused on computing the Sharpe ratio for the stocks of two prominent tech giants, Facebook and Amazon, using the S&P 500 index as the benchmark. By harnessing Python's capabilities, I performed the necessary calculations to evaluate the risk and return characteristics of these stocks and compared them against the benchmark. This analysis offers valuable insights for investors seeking to make informed decisions based on risk-adjusted returns.
